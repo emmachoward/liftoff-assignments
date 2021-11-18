@@ -7,12 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The Neopian Times is an online newspaper that has been in publication for over twenty years. Recently there’s been discussion among its contributors about creating an archive of its history, including early hard-to-access content. More than just a clone, though, this archive would have improved functionality and features such as a responsive mobile-friendly design and improved search function.
 ### Features
-Include Features here
+Navigation: Users will be able to navigate to content using pages and a menu.
+Responsive Design: Users will be able to enjoy the website on both mobile and desktop.
+Search Function: Users will be able to search content and authors.
 ### Technologies
-Include Technologies here
+JavaScript
+React
+Bootstrap
+Google Fonts
+Font Awesome
 ### What I'll Have to Learn
-Include what you will need to learn here
+I need a complex search function, but I’ve only ever built a simple one. I’ll need to do some research into building a proper search function or find a technology that pairs with React to use as a search function.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4jPvUiQ4/nt-archive
